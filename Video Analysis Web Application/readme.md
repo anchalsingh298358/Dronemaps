@@ -45,9 +45,3 @@ This repository contains a web application developed for analyzing dashcam video
 
 The video analysis web application provides a user-friendly interface for analyzing dashcam videos and extracting valuable insights. With its object detection, dashboard visualization, and PDF report generation features, it serves as a powerful tool for transportation management, road maintenance, and safety monitoring.
 
-## Contact Information
-
-For inquiries or feedback, please contact:
-- [Developer Name]
-- [Developer Email Address]
-- [Developer GitHub Profile]
